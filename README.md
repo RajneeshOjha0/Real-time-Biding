@@ -1,3 +1,5 @@
+<img width="290" alt="image" src="https://github.com/RajneeshOjha0/Real-time-Biding/assets/151709914/10dc32e9-6fc7-429f-a73e-b3c86706e673">
+
 # Real-Time Bidding Platform
 
 ## Setup Instructions
