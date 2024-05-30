@@ -19,8 +19,10 @@ module.exports = (sequelize, DataTypes) => {
         },
         current_price: {
             type: DataTypes.DECIMAL,
-            defaultValue: sequelize.literal('starting_price'),
+            allowNull: true, // Allow null initially
         },
+
+
         image_url: {
             type: DataTypes.STRING,
             allowNull: true,
