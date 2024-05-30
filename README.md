@@ -6,7 +6,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/RajneeshOjha0/Real-time-Biding>
     cd real-time-bidding-platform
     ```
 
